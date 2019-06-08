@@ -24,7 +24,6 @@ Few linux packages or libraries are required for python dependencies to get inst
 sudo apt-get install libpq-dev
 sudo apt-get install python-dev
 sudo apt-get install libffi-dev
-sudo apt-get install python-cffi
 ```
 
 ```sh
