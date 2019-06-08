@@ -1,6 +1,6 @@
 # SMS API
 
-This example is written with Django 1.8.1.
+This example is written with Django 1.8.1 and python2.7.
 
 ## Building
 ### Install PIP
