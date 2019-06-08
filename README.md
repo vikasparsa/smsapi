@@ -20,10 +20,13 @@ $ source venv/bin/activate
 ```
 ### Install Requirements
 Few linux packages or libraries are required for python dependencies to get installed.  
-sudo apt-get install libpq-dev .   
-sudo apt-get install python-dev .  
-sudo apt-get install libffi-dev .   
-sudo apt-get install python-cffi .   
+```sh
+sudo apt-get install libpq-dev
+sudo apt-get install python-dev
+sudo apt-get install libffi-dev
+sudo apt-get install python-cffi
+```
+
 ```sh
 $ pip install -r requirements.txt
 ```
